@@ -1,4 +1,5 @@
-# Password Tool
+# Sutura
+"SUTURA: la discrétion "
 
 Outil en Python pour évaluer la force d'un mot de passe, calculer son empreinte SHA-256, vérifier s'il figure dans une liste de mots de passe connus et en générer un fort.
 
